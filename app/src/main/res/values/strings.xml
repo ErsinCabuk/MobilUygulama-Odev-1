@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Geldi Geliyor</string>
+    <string name="soy_isim">Soy İsim</string>
+    <string name="isim">İsim</string>
+    <string name="tc_kimlik_no">TC Kimlik No</string>
+    <string name="tel_no">Telefon No</string>
+    <string name="ulke">Ülke</string>
+    <string name="il">İl</string>
+    <string name="isyeri">İş Yeri</string>
+    <string name="adres_yeri">Adres Yeri</string>
+    <string name="ev">Ev</string>
+    <string name="adres">Adres</string>
+    <string name="ileri">İleri</string>
+    <string name="geri">Geri</string>
+    <string name="geldi_geliyor">Geldi Geliyor</string>
+
+    <string-array name="ulkeler">
+        <item>Türkiye</item>
+        <item>Azerbaycan</item>
+        <item>Amerika</item>
+        <item>Almanya</item>
+    </string-array>
+</resources>
